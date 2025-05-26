@@ -2,7 +2,7 @@
   "name": "ducks-color-theme",
   "displayName": "Ducks Color Theme",
   "description": "Uses Anaheim Ducks color palettes.",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "publisher": "beautifulgoat",
   "icon": "./vscode-ducks-theme-icon.ico",
   "engines": {
