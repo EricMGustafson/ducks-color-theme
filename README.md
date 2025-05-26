@@ -13,4 +13,5 @@ Primarily used the following colors, sourced from [trucolor.net](https://www.tru
 <font color='#862633'>#862633</font>  
 <font color='#B9D9EB'>#B9D9EB</font>
 
-![alt text](image-1.png)
+![example1](image-2.png)
+![example2](image-3.png)
