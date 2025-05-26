@@ -13,6 +13,6 @@ Primarily used the following colors, sourced from [trucolor.net](https://www.tru
 <font color='#862633'>#862633</font>  
 <font color='#B9D9EB'>#B9D9EB</font>
 
-![example1](./example1.png)  
+![example1](https://raw.githubusercontent.com/EricMGustafson/ducks-color-theme/refs/heads/master/example1.png)  
 
-![example2](./example2.png)
+![example2](https://raw.githubusercontent.com/EricMGustafson/ducks-color-theme/refs/heads/master/example2.png)
