@@ -4,7 +4,7 @@
   "description": "Uses Anaheim Ducks color palettes.",
   "version": "1.0.0",
   "publisher": "beautifulgoat",
-  "icon": "https://github.com/EricMGustafson/ducks-color-theme/blob/master/image-2.png?raw=true",
+  "icon": "./vscode-ducks-theme-icon.ico",
   "engines": {
     "vscode": "^1.100.0"
   },
